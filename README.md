@@ -9,4 +9,4 @@ Esta página web de plantas🌷 fue creado durante el Bootcamp Tecnolochicas PRO
 * CSS3
 
 ### Link a Demo
-[pagina web de plantas](https://frolicking-chimera-800cf8.netlify.app/)
+[pagina web de plantas](https://plantaslendy.netlify.app/)
