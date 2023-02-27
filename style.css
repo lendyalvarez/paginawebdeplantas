@@ -1,0 +1,40 @@
+/*Estilo en el body*/
+body{
+    color:rgb(153, 54, 54);
+    background-color: hsl(291, 43%, 18%);
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lilita One', cursive;
+font-family: 'Righteous', cursive;
+}
+
+p, li{
+    color:rgba(110, 209, 135, 0.829);
+}
+
+h3{
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Righteous', cursive;
+}
+
+
+h1{
+    font-size: 50px;
+    color: rgb(11, 109, 24);
+    font-family: 'Dancing Script', cursive;
+}
+
+img{
+    width: 280px;
+    height: 330px;
+    border-style:inset;
+    border-width: 13px;
+    border-color:bisque;
+    padding: 20px;
+    margin: 20px
+}
+
+div, footer{
+   background-color: rgba(184, 128, 83, 0.74);
+}
+   
